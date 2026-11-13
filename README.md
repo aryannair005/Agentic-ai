@@ -18,7 +18,7 @@ Each folder is an independent Node.js application with its own `package.json`.
 
 The LangGraph implementation uses **Google Gemini 2.5 Flash** with tools and a graph that decides whether to execute a tool or finish the response.
 
-![LangGraph workflow](assets/langgraph-workflow.png)
+![LangGraph workflow](https://github.com/aryannair005/Agentic-ai/blob/862a19ff30620f5fac0478470b0fce0418bdb044/langgraph-workflow.png)
 
 ### How the workflow works
 
